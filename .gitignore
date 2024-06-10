@@ -136,3 +136,6 @@ dist
 
 
 .nx/workspace-data
+
+# Postgres volumes
+.postgres/
